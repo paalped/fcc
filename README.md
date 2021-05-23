@@ -1,4 +1,4 @@
-# A repository for self development
+# A repository for self development while pooping
 
 ## Goals:
  - create a mobile git repo for developing a django app on ios
